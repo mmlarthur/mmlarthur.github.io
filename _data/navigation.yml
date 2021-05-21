@@ -10,7 +10,7 @@ main:
     url: /public/    
     
   - title: "CV"
-    url: /cv/
+    url: /files/arthurcv.pdf
     
   - title: "Contact Me"
     url: /contact/
