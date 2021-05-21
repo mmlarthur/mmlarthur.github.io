@@ -77,15 +77,15 @@ analytics:
 # Site Author
 author:
   name             : "About Me"
-  avatar           : "profile.png"
+  avatar           : "mmlahs.jpg"
   bio              : "Professor and Chair of Sociology, Rhode Island College; sociologist; higher education expert; public scholar"
   location         : "Providence, RI"
-  employer         :  Rhode Island College
+  employer         :  "Rhode Island College"
   googlescholar    : "https://scholar.google.com/citations?user=Y1JWqlwAAAAJ&hl=en"
   email            : "marthur@ric.edu"
   linkedin         : "https://www.linkedin.com/in/mlarthur/"
   orcid            : "https://orcid.org/0000-0002-3180-4058"
-  twitter          : "@mmlarthur"
+  twitter          : "https://twitter.com/mmlarthur"
   SocArxIv         : "https://osf.io/dq5at/"
 
 
