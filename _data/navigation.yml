@@ -1,13 +1,13 @@
 # main links links
 main:
   - title: "Teaching"
-    url: /Teaching/
+    url: /_Pages/teaching.html/
 
-  - title: "Research"
-    url: /Research/    
+  - title: "Scholarship"
+    url: /_Pages/scholarship.html/    
 
   - title: "Media & Public Service"
-    url: /public/    
+    url: /_Pages/public/    
     
   - title: "CV"
     url: /files/arthurcv.pdf
