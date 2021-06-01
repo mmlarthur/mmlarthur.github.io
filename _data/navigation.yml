@@ -4,7 +4,7 @@ main:
     url: /files/arthurcv.pdf
     
   - title: "Teaching"
-    url: /_pages/teaching/
+    url: /files/teaching.html
 
   - title: "Scholarship"
     url: /_pages/scholarship.md    
