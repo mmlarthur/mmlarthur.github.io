@@ -1,5 +1,8 @@
 # main links links
 main:
+  - title: "CV"
+    url: /files/arthurcv.pdf
+    
   - title: "Teaching"
     url: /_pages/teaching.md/
 
@@ -9,5 +12,4 @@ main:
   - title: "Media & Public Service"
     url: /_pages/public.md/    
     
-  - title: "CV"
-    url: /files/arthurcv.pdf
+
